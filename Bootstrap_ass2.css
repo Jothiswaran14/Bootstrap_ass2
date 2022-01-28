@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+.back:hover{
+    background-color: #892be2a2;
+}
+@media all and (max-width:900px){
+    .item-car{height: 30rem !important;}
+    }
+@media all and (max-width:690px){
+.item-car{height: 15rem !important;}
+}
