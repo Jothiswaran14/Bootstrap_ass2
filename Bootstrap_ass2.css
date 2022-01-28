@@ -7,6 +7,9 @@
 @media all and (max-width:900px){
     .item-car{height: 30rem !important;}
     }
-@media all and (max-width:690px){
-.item-car{height: 15rem !important;}
+@media all and (max-width:790px){
+.item-car{height: 25rem !important;}
+}
+@media all and (max-width:500px){
+.item-car{height: 20rem !important;}
 }
