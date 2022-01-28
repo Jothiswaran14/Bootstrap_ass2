@@ -4,12 +4,12 @@
 .back:hover{
     background-color: #892be2a2;
 }
-@media all and (max-width:900px){
-    .item-car{height: 30rem !important;}
+@media all and (max-width:1024px){
+    .item-car{height: 25rem !important;}
     }
-@media all and (max-width:790px){
-.item-car{height: 25rem !important;}
+@media all and (max-width:780px){
+.item-car{height: 18rem !important;}
 }
-@media all and (max-width:500px){
-.item-car{height: 20rem !important;}
-}
+@media all and (max-width:480px){
+    .item-car{height: 15.5rem !important;}
+    }
